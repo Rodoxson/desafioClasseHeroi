@@ -1,10 +1,10 @@
-##🦸‍♀️🦸‍♀️🦸‍♀️🦸‍♀️🦸‍♀️ Projeto: Classe Heroi em JavaScript 🦸‍♀️🦸‍♀️🦸‍♀️🦸‍♀️🦸‍♀️
+# 🦸‍♀️🦸‍♀️🦸‍♀️🦸‍♀️🦸‍♀️ Projeto: Classe Heroi em JavaScript 🦸‍♀️🦸‍♀️🦸‍♀️🦸‍♀️🦸‍♀️
 
 Este projeto é um exemplo simples de como **criar uma classe** em JavaScript com **construtor** e **método**, usando um personagem de jogo como exemplo!
 
 ---
 
-# 📚 O que você vai aprender:
+## 📚 O que você vai aprender:
 
 ✅ Como criar uma **classe**  
 ✅ Como usar o **constructor**  
@@ -14,16 +14,16 @@ Este projeto é um exemplo simples de como **criar uma classe** em JavaScript co
 
 ---
 
-# 🧠 Entendendo a ideia
+## 🧠 Entendendo a ideia
 
 Imaginamos que temos heróis com diferentes **tipos** (guerreiro, mago, monge, ninja), e cada um tem um tipo de ataque diferente.  
 Usamos uma **classe `Heroi`** para representar isso!
 
 ---
 
-# 🛠️ Estrutura do Código
+## 🛠️ Estrutura do Código
 
-# 🔷 1. Criando a Classe
+### 🔷 1. Criando a Classe
 
 ```javascript
 class Heroi {
@@ -41,7 +41,7 @@ class Heroi {
 
 ---
 
-# 🔷 2. Criando o Método `atacar()`
+### 🔷 2. Criando o Método `atacar()`
 
 ```javascript
 atacar() {
@@ -67,7 +67,7 @@ atacar() {
 
 ---
 
-# 🚀 Como usar?
+### 🚀 Como usar?
 
 ```javascript
 const heroi1 = new Heroi("Rodox", 38, "Ninja");
@@ -81,7 +81,7 @@ O Ninja Rodox atacou usando shuriken
 
 ---
 
-# 🎯 Exemplos de Heróis
+### 🎯 Exemplos de Heróis
 
 ```javascript
 new Heroi("Arthur", 30, "guerreiro")   // espada 🗡️
